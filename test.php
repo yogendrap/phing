@@ -1,5 +1,6 @@
 <?php
-print_r("sdfsdfsd");
-die;
-
+print "I am cool";
+if(1){
+echo 1;
+}
 ?>
